@@ -5,21 +5,24 @@
         "title": "The Great Gatsby",
         "author": "F. Scott Fitzgerald",
         "year": 1925,
-        "available": true
+        "available": true,
+        "price": 10.99
         },
         {
         "id": 2,
         "title": "To Kill a Mockingbird",
         "author": "Harper Lee",
         "year": 1960,
-        "available": true
-        },
+        "available": true,
+        "price": 12.99
+        },      
         {
         "id": 3,
         "title": "1984",
         "author": "George Orwell",
         "year": 1949,
-        "available": false
+        "available": false,
+        "price": 13.99
         }
     ]
 }

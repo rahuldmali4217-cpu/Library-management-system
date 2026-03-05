@@ -1,0 +1,22 @@
+meta {
+  name: POST Create/Register a new user
+  type: http
+  seq: 1
+}
+
+post {
+  url: http://localhost:8081/users
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "id": 5,
+    "name": "rahul",
+    "surname": "Mali",
+    "email": "rahul@gmail.com",
+    "subscriptionType": "Basic",
+    "subscriptionDate": "2024-01-20"
+  }
+}

@@ -5,44 +5,39 @@
             "name": "John",
             "surname": "Doe",
             "email": "john.doe@example.com",
-            "issuedBook": "The Great Gatsby",
-            "issuedDate": "2024-01-15",
-            "returnBook": "2024-02-15",
+            "issuedBook": 1,
+            "issuedDate": "15-01-2024",
             "subscriptionType": "Premium",
-            "subscriptionDate": "2024-01-01"
+            "subscriptionDate": "01-01-2024"
         },
         {
             "id": 2,
             "name": "Sarah",
             "surname": "Smith",
             "email": "sarah.smith@example.com",
-            "issuedBook": "To Kill a Mockingbird",
-            "issuedDate": "2024-01-20",
-            "returnBook": "2024-02-20",
+            "issuedBook": 2,
+            "issuedDate": "20-01-2024",
             "subscriptionType": "Standard",
-            "subscriptionDate": "2023-12-10"
+            "subscriptionDate": "10-12-2023"
         },
         {
             "id": 3,
             "name": "Michael",
             "surname": "Johnson",
             "email": "michael.johnson@example.com",
-            "issuedBook": "1984",
-            "issuedDate": "2024-01-10",
-            "returnBook": "2024-02-10",
+            "issuedBook": 3,
+            "issuedDate": "10-01-2024",
             "subscriptionType": "Premium",
-            "subscriptionDate": "2024-01-05"
+            "subscriptionDate": "05-01-2024"
         },
         {
             "id": 4,
             "name": "Emily",
             "surname": "Williams",
             "email": "emily.williams@example.com",
-            "issuedBook": "Pride and Prejudice",
-            "issuedDate": "2024-01-25",
-            "returnBook": "2024-02-25",
+            "issuedDate": "25-01-2024",
             "subscriptionType": "Basic",
-            "subscriptionDate": "2024-01-20"
+            "subscriptionDate": "20-01-2024"
         }
     ]
 }
