@@ -55,4 +55,27 @@ npm i nodemon --save-dev
 
 npm run dev
 
-in restore node module and packege-lock.json --> npm i / npm intall
+in restore node module and packege-lock.json --> npm i / npm install
+
+
+## for mongoDB
+
+npm i mongoose
+npm install mongodb
+
+mongodb+srv://rahuldmali4217:<db_password>@cluster0.jxmkev7.mongodb.net/?appName=Cluster0
+j06QdIUZmMwJELUp
+
+mongodb+srv://rahuldmali4217:j06QdIUZmMwJELUp@cluster0.jxmkev7.mongodb.net/?appName=Cluster0
+
+npm i dotenv
+
+
+## MVC Architecture
+    >> M: Model (Structure of out MongoDB)
+    >> V: View (Frontend)
+    >> C: Controller (Brain/Logic of a route)
+
+
+
+### DTO (Data Transfer Object)
